@@ -5,7 +5,11 @@
 <hr>
 
 <div align="center">
-  <img src="./assets/undraw_Having_fun_re_vj4h.svg" width="300px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-nguyen-vd">
-  <img src="./assets/undraw_version_control_re_mg66.svg" width="300px">
+  <table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
+    <tr>
+      <td width="30%"><img src="./assets/undraw_Having_fun_re_vj4h.svg"></td>
+      <td><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-nguyen-vd" width="80%"></div></td>
+      <td width="30%"><img src="./assets/undraw_version_control_re_mg66.svg"></td>
+    </tr>
+  </table>
 </div>
